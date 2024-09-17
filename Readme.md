@@ -11,6 +11,9 @@
 - **Run or Edit Files**: Run Python files directly or open them in Notepad++ for editing.
 - **Customizable Interface**: Built with `ttkbootstrap`, providing a modern look and feel.
 
+[![IMG-20240917-WA0003.jpg](https://i.postimg.cc/L4tJFP94/IMG-20240917-WA0003.jpg)](https://postimg.cc/rzpVSKR7)
+
+
 ## Installation
 
 1. Clone the repository or download the project files.
